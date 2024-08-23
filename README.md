@@ -7,6 +7,6 @@
  -  Pure HTML, CSS, JavaScript used.
  
  ## To see the project
-[Weather website](https://simple-weather-website.netlify.app/)
+[Weather website](https://weather-website-six.vercel.app/)
 
 
